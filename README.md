@@ -1,1 +1,1 @@
-# javascript-exercises
+# Lista de Exercícios utilizando JavaScript
